@@ -22,12 +22,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entity Builder Extension](https://github.com/websemantics/entity_builder-extension): This extension works silently in the background to generate entities for all your streams and will configure your module with routes, bindings, language files so you don't have to lift a finger.
 
 ## Plugins
+- Add
 
 ## Themes
 
 - [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
 
-## FieldType
+## Field Types
+- Add
 
 ## Resources
 
