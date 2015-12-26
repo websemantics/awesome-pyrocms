@@ -14,15 +14,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Modules
 
-- [Mad science](#mad-science)
+- [Comments Module](https://github.com/anomalylabs/comments-module): Comments module for the Streams Platform.
 
 ## Extensions
 
-- [Entity Builder Extension](https://github.com/websemantics/entity_builder-extension): This extension once installed, works silently in the background to generate entities for all your streams. It will also configure your module with routes, bindings, language files so you don't have to lift a finger
+- [GitHub API Extension](https://github.com/anomalylabs/github_api-extension): Easily integrate GitHub APIs into your Streams Platform projects.
+- [Entity Builder Extension](https://github.com/websemantics/entity_builder-extension): This extension once installed, works silently in the background to generate entities for all your streams. It will also configure your module with routes, bindings, language files so you don't have to lift a finger.
 
 ## Plugins
 
 ## Themes
+
+- [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
 
 ## FieldType
 
