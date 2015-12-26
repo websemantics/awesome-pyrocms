@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Resources
 
 - [PyroCMS](https://www.pyrocms.com): Whether you're a developer or designer, manager or assistant, PyroCMS helps you quickly design, build and manage your website.
-- [Pyrocms Cheatsheet](http://websemantics.github.io/pyrocms-cheatsheet/): A list of commands and features for PyroCMS 3.
+- [PyroCMS Cheatsheet](http://websemantics.github.io/pyrocms-cheatsheet/): A list of commands and features for PyroCMS 3.
 
 ## Contributing
 
