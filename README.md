@@ -19,7 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Extensions
 
 - [GitHub API Extension](https://github.com/anomalylabs/github_api-extension): Easily integrate GitHub APIs into your Streams Platform projects.
-- [Entity Builder Extension](https://github.com/websemantics/entity_builder-extension): This extension once installed, works silently in the background to generate entities for all your streams. It will also configure your module with routes, bindings, language files so you don't have to lift a finger.
+- [Entity Builder Extension](https://github.com/websemantics/entity_builder-extension): This extension works silently in the background to generate entities for all your streams and will configure your module with routes, bindings, language files so you don't have to lift a finger.
 
 ## Plugins
 
