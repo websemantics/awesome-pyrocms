@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
 
 ## Field Types
-- Add
+- [Social Field Type](https://github.com/websemantics/social-field_type): The social field type provides a dropdown input of social netwroks
 
 ## Resources
 
