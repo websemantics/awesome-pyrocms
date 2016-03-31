@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PyroCMS Branding](https://github.com/pyrocms/branding): PyroCMS Logos and Branding materials.
 - [PyroCMS Cheatsheet](http://websemantics.github.io/pyrocms-cheatsheet/): A list of commands and features for PyroCMS 3.
 - [PyroCMS Requests](https://github.com/websemantics/pyrocms-requests/): Get PyroCMS projects and ideas built by the community.
+- [PyroCMS Project Installer](https://github.com/websemantics/build-pyrocms-projects/): Install your PyroCMS projects in style.
 
 ## Contributing
 
