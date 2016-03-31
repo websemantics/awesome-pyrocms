@@ -3,8 +3,8 @@
   / _ || | /| / // __// __// __ \ /  |/  // __/   / _ \\ \/ // _ \ / __ \ / ___//  |/  // __/
  / __ || |/ |/ // _/ _\ \ / /_/ // /|_/ // _/    / ___/ \  // , _// /_/ // /__ / /|_/ /_\ \  
 /_/ |_||__/|__//___//___/ \____//_/  /_//___/   /_/     /_//_/|_| \____/ \___//_/  /_//___/  v3
-                                                                                                                                                                                                                                                           
 ```
+> Updated: 31 April 2016
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -35,6 +35,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [PyroCMS](https://www.pyrocms.com): Whether you're a developer or designer, manager or assistant, PyroCMS helps you quickly design, build and manage your website.
 - [PyroCMS Cheatsheet](http://websemantics.github.io/pyrocms-cheatsheet/): A list of commands and features for PyroCMS 3.
+- [PyroCMS Requests](https://github.com/websemantics/pyrocms-requests/): Get PyroCMS projects and ideas built by the community.
+- 
 
 ## Contributing
 
