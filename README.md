@@ -24,14 +24,13 @@
 
 
 ```
-> Updated: 31 April 2016
+> Updated: 18 Oct 2016
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of [PyroCMS](https://www.pyrocms.com/) plugins and resources. The main idea is that everyone can contribute here, so we can have a central repository of informations about PyroCMS that we keep up-to-date.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
 
 ## Table of Contents
 
@@ -43,32 +42,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Resources](#resources)
 - [Contributing](#contributing)
 
-
 ## Modules
 
-- [Comments Module](https://github.com/anomalylabs/comments-module): Comments module for the Streams Platform.
-
+- [Icons Module](https://github.com/websemantics/icons-module): Manage icon definitions from Control Panel.
+- [Calendar Module](https://github.com/websemantics/calendar-module): Calendar layout for PyroCMS 3 CP Table Builder.
+- [Icons Module](https://github.com/anomalylabs/comments-module): Comments module for the Streams Platform.
 
 ## Extensions
 
 - [GitHub API Extension](https://github.com/anomalylabs/github_api-extension): Easily integrate GitHub APIs into your Streams Platform projects.
-- [Entity Builder Extension](https://github.com/websemantics/entity_builder-extension): This extension works silently in the background to generate entities for all your streams and will configure your module with routes, bindings, language files so you don't have to lift a finger.
-
+- [Builder Extension](https://github.com/websemantics/entity_builder-extension): Scaffold your PyroCMS apps in style for a more pleasurable and productive coding experience.
 
 ## Plugins
 
 - [Placeholder Plugin](https://github.com/websemantics/placeholder-plugin): This plugin provides a quick and simple way for generating crystal-clear image placeholders using SVG.
 
-
 ## Themes
 
 - [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
 
-
 ## Field Types
 
 - [Social Field Type](https://github.com/websemantics/social-field_type): The social field type provides a dropdown input of social netwroks.
-
 
 ## Resources
 
@@ -79,18 +74,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PyroCMS Project Installer](https://github.com/websemantics/build-pyrocms-projects/): Install your PyroCMS projects in style.
 - [Auto Pyro](https://github.com/websemantics/auto-pyro): PyroCMS deploy tool for faster and more pleasurable development experience.
 
-
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-pyrocms/blob/master/contributing.md).
-
 
 ## Other Awesome Lists
 
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-
 
 ## License
 
