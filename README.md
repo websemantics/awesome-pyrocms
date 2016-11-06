@@ -45,8 +45,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Modules
 
 - [Icons Module](https://github.com/websemantics/icons-module): Manage icon definitions from Control Panel.
-- [Calendar Module](https://github.com/websemantics/calendar-module): Calendar layout for PyroCMS 3 CP Table Builder.
-- [Icons Module](https://github.com/anomalylabs/comments-module): Comments module for the Streams Platform.
+- [Calendar Module](https://github.com/websemantics/calendar-module): Calendar layout for PyroCMS 3 Control Panel Table Builder.
+- [Comments Module](https://github.com/anomalylabs/comments-module): Manage comments for the Streams Platform.
 
 ## Extensions
 
