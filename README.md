@@ -24,7 +24,7 @@
 
 
 ```
-> Updated: 06 Nov 2016
+> Updated: 10 Nov 2016
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -60,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Themes
 
+- [Stone Theme](https://github.com/websemantics/stone-theme): Responsive admin theme for PyroCMS 3, easy to install and customize, with slick UI and intuitive user experience.
 - [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
 
 ## Field Types
