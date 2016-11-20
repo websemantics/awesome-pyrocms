@@ -24,7 +24,7 @@
 
 
 ```
-> Updated: 10 Nov 2016
+> Updated: 20 Nov 2016
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Calendar Module](https://github.com/websemantics/calendar-module): Calendar layout for PyroCMS 3 Control Panel Table Builder.
 - [Comments Module](https://github.com/anomalylabs/comments-module): Manage comments for the Streams Platform.
 - [Dynamic Translations Module](https://github.com/keevitaja/translations-module): This module provides fast dynamic translations with the help of Laravel Translator.
+- [Bank Certificates Module](https://github.com/dakshhmehta/pyrocms-certificates-module): Bank certificates management module for PyroCMS 3.
 
 ## Extensions
 
@@ -60,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Themes
 
+- [PyroCMS Plus Theme](https://github.com/websemantics/pyrocms-theme): Skinnable, responsive and highly customizable admin theme for PyroCMS 3.
 - [Stone Theme](https://github.com/websemantics/stone-theme): Responsive admin theme for PyroCMS 3, easy to install and customize, with slick UI and intuitive user experience.
 - [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
 
