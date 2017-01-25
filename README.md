@@ -67,7 +67,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Field Types
 
-- [Social Field Type](https://github.com/websemantics/social-field_type): The social field type provides a dropdown input of social netwroks.
+- [Social Field Type](https://github.com/websemantics/social-field_type): The social field type provides a dropdown input of social networks.
+- [List Field Type](https://bitbucket.org/edsters/list-field_type): A list field type allowing you to add variable length lists that wont break formatting.
 
 ## Resources
 
