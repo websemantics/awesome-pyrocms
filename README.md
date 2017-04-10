@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PyroCMS Plus Theme](https://github.com/websemantics/pyrocms-theme): Skinnable, responsive and highly customizable admin theme for PyroCMS 3.
 - [Stone Theme](https://github.com/websemantics/stone-theme): Responsive admin theme for PyroCMS 3, easy to install and customize, with slick UI and intuitive user experience.
 - [Landed Theme](https://github.com/anomalylabs/landed-theme): A dark, slick, modern, responsive, adjective-drenched theme by HTML5 UP!.
+- [Blog Theme](https://github.com/keevitaja/blog-theme): A slick personal blog theme for PyroCMS.
 
 ## Field Types
 
