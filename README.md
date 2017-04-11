@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [GitHub API Extension](https://github.com/anomalylabs/github_api-extension): Easily integrate GitHub APIs into your Streams Platform projects.
 - [Builder Extension](https://github.com/websemantics/entity_builder-extension): Scaffold your PyroCMS apps in style for a more pleasurable and productive coding experience.
+- [Seeder Make Extension](https://github.com/Piterden/seeder_make-extension): Extended `make:seeder` artisan command.
 
 ## Plugins
 
