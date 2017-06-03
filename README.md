@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Icons Module](https://github.com/websemantics/icons-module): Manage icon definitions from Control Panel.
 - [Calendar Module](https://github.com/websemantics/calendar-module): Calendar layout for PyroCMS 3 Control Panel Table Builder.
 - [Comments Module](https://github.com/anomalylabs/comments-module): Manage comments for the Streams Platform.
+- [Downloads Module](https://github.com/wirelab/downloads-module): Module for managing downloads.
 - [Dynamic Translations Module](https://github.com/keevitaja/translations-module): This module provides fast dynamic translations with the help of Laravel Translator.
 - [Bank Certificates Module](https://github.com/dakshhmehta/pyrocms-certificates-module): Bank certificates management module for PyroCMS 3.
 - [Backup Manager Module](https://github.com/Piterden/backup_manager-module): By addon backups management for PyroCMS 3. JSON. Artisan commands.
